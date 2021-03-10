@@ -1,0 +1,8 @@
+O sistema de vendas para a lanchonete "Taverna do Dragão" foi feita com o intuito de facilitar o registro de vendas, 
+cadastro de produtos e a consulta de vendas anteriores.
+
+
+Para o pleno funcionamento da aplicação segue algumas indicações:
+-Registro de nomes devem ser feitos sem o uso de espaço e/ou virgulas, o uso dos mesmos causa problemas na gravação do arquivo, no
+lugar dos espaços é sugerido o uso de "_" ou "-";
+-Datas devem ser registradas conforme o modelo: 31/12/2019, outros formatos de data causam erro no sitema.

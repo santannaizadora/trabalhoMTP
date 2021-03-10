@@ -1,0 +1,16 @@
+1;Mushu;17.0
+2;Fúria_da_Noite;25.0
+3;Bacon_of_Hope;26.0
+4;Sociedade_do_Anel_de_Cebola;27.0
+5;As_Duas_Torres_de_Queijo;27.0
+6;O_Retorno_do_Rei_Abacaxi;27.0
+8;Azog:O_Profano;36.0
+9;Alduin;16.0
+10;Regicida;16.0
+11;Charizard;10.0
+12;Rhaegal;20.0
+13;Viserion;16.0
+14;Drogon;21.0
+15;Água;4.0
+16;Refrigerantes;5.0
+16;hgfhg;2.0
